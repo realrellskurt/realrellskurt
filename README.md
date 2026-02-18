@@ -1,6 +1,4 @@
-## Hi there 👋
-
-## Check out my website: http://rellskurt.com
+http://rellskurt.com
 
 <!--
 **realrellskurt/realrellskurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
